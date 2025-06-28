@@ -1,0 +1,44 @@
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*.suo
+*.user
+*.userosscfg
+*.sln.docstates
+*.builds
+*.pidb
+*.log
+*.scc
+
+# NuGet
+.nuget/
+*.nupkg
+*.snupkg
+*.lock.json
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Binaries
+bin/
+obj/
+
+# Settings
+*.json.user
+
+# Other
+*.bak
+*.tmp
+*.log
